@@ -36,8 +36,8 @@ const Hero = () => (
                 Payment Method.
             </h1>
             <p className={`${styles.paragraph} max-w-[483px] mt-5`}>
-                Copy Our team of experts uses a methodology to identify the
-                credit cards most likely to fit your needs. We examine annual
+                Our team of experts uses a methodology to identify the credit
+                cards most likely to fit your needs. We examine annual
                 percentage rates, annual fees.
             </p>
         </div>
